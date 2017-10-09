@@ -1,4 +1,6 @@
 #Animate.css
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fanimate.css.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fanimate.css?ref=badge_shield)
+
 *Just-add-water CSS animation*
 
 `animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
@@ -164,6 +166,9 @@ Next, run `grunt watch` to watch for changes and compile your custom builds. For
 
 ## License
 Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fanimate.css.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fanimate.css?ref=badge_large)
 
 ## Contributing
 Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc]) and let us see a demo of submitted animations in a [pen](http://codepen.io). That last one is important.
